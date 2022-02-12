@@ -2,6 +2,7 @@
 Quantifcation of interactions of soil conditions, plant available water and weather conditions on crop development and production is the key for optimizing feld management to achieve optimal production. The goal of this study was to quantify the efects of soil and weather conditions on cotton development and production using temporal aerial imagery data, weather and soil apparent electrical conductivity (ECa) of the feld.
 
 Feng, A., Zhou, J., Vories, E.D. et al. Quantifying the effects of soil texture and weather on cotton development and yield using UAV imagery. Precision Agric (2022). https://doi.org/10.1007/s11119-022-09883-6
+https://trebuchet.public.springernature.app/get_content/dad7191f-3d41-444f-a986-cc6efba45207
 
 ## Data processing and results
 The overall procedure of this study is given in Fig. 1 that shows the flowchart of the data and analysis used in this study. Firstly, high spatial resolution ECa data, high temporal resolution weather data and monthly UAV image data were collected. Features that reflected soil water holding capacity, crop water requirement and crop growing status were extracted. A data fusion method was developed to integrate different spatio-temporal features representing soil, water stress and crop growth. Pearson correlation (r), analysis of variance (ANOVA), eXtreme Gradient Boosting (XGBoost) models and feature contribution analysis were used to quantify the relationships between crop response derived from UAV images and environments (soil texture and weather).
